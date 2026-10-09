@@ -4,7 +4,7 @@
 - **專案名稱**：SOIL Teaching Deck（SOIL 教學投影片生成中樞）
 - **專案用途**：建立、診斷與生成高質感、可編輯、符合認知負荷理論（CLT）之 16:9 教學 PowerPoint 簡報（.pptx）
 - **主要工作目錄**：`/Users/tunyuan/anti/soil-teaching-deck`
-- **GitHub Repo**：(待本機確認後建立或關聯)
+- **GitHub Repo**：https://github.com/asc103138/soil-teaching-deck
 - **全域技能路徑**：`~/.gemini/config/skills/soil-teaching-deck`
 
 ## Obsidian 關聯筆記
