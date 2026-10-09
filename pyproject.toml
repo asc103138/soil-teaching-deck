@@ -1,0 +1,11 @@
+[project]
+name = "soil-teaching-deck"
+version = "0.1.0"
+description = "SOIL-style educational presentation deck builder for Antigravity"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-pptx>=1.0.2",
+    "pillow>=10.0.0",
+    "matplotlib>=3.8.0",
+]
